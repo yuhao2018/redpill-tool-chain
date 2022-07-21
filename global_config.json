@@ -354,9 +354,9 @@
         "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
       }
-      "bulid_env":{
-      "jun_mod":1,
-      "dubug:0"
+      "bulid_env": {
+      "jun_mod": 1,
+      "dubug: 0"
     }
    },
     {
