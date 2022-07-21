@@ -351,10 +351,14 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/tossp/redpill-load.git",
-        "branch": "42218-20211021"
+        "source_url": "https://github.com/jumkey/redpill-load.git",
+        "branch": "develop"
       }
-    },
+      "bulid_env":{
+      "jun_mod":1,
+      "dubug:0"
+    }
+   },
     {
       "id": "ds918p-7.1.0-42661",
       "platform_name": "DS918+",
